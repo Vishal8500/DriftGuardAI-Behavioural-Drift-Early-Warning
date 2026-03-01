@@ -233,6 +233,14 @@ This ensures data is not linearly predictable and simulates real behavioural irr
 Prediction → Actionable Intervention
 
 ---
+## 📁 Project Structure
+
+- **data/** – Raw synthetic dataset and engineered behavioural features  
+- **src/** – Data generation, feature engineering, model training, risk scoring, and intervention logic  
+- **app/** – Streamlit dashboard for visualization and student-level analysis  
+- **README.md** – Project documentation  
+- **requirements.txt** – Python dependencies
+---
 
 # ⚙️ Run Locally
 
