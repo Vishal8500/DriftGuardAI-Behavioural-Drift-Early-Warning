@@ -6,3 +6,8 @@ __pycache__/
 .Python
 env/
 models/
+*.pdf
+*.ppt
+*.pptx
+*.doc
+*.docx
